@@ -1,0 +1,43 @@
+.card {
+    height: 100vh;
+    background-image: url('photo.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.content {
+    color: white;
+    width: 450px;
+    margin: auto;
+    text-align: center;
+    padding-top: 120px;
+    font-family: 'Anek Malayalam', sans-serif;
+
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.title {
+    margin-bottom: 25px;
+}
+.big-title {
+    font-size: 100px;
+    font-family: 'Anek Malayalam', sans-serif;
+    margin-bottom: 28px;
+}
+
+.knopka {
+    text-decoration: none;
+    display: block;
+    background-color: aqua;
+    color: white;
+    border-radius: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    width: 180px;
+    margin: auto;
+}
+.knopka:hover {
+    background-color: aqua;
+}
